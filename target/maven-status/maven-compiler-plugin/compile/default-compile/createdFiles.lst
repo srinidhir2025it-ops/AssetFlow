@@ -1,0 +1,17 @@
+com\assetflow\repository\AssetRepository.class
+com\assetflow\DatabaseConnection.class
+com\assetflow\App.class
+com\assetflow\ui\AssetFlowUI$1.class
+com\assetflow\repository\EmployeeRepository.class
+com\assetflow\model\Asset.class
+com\assetflow\repository\AllocationRepository.class
+com\assetflow\ui\AssetFlowUI.class
+com\assetflow\ui\AssetFlowUI$4.class
+com\assetflow\repository\ActivityLogRepository.class
+com\assetflow\repository\DashboardRepository.class
+com\assetflow\model\Employee.class
+com\assetflow\ui\AssetFlowUI$3.class
+com\assetflow\ui\AssetFlowUI$2.class
+com\assetflow\repository\ExitClearanceRepository.class
+com\assetflow\repository\AssetReturnRepository.class
+com\assetflow\ui\AssetFlowUI$ChoiceItem.class
